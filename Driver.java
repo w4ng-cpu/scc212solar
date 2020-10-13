@@ -4,7 +4,10 @@
 */
 public class Driver
 {
+    /**
+    * This is the main method
+    */
     public static void main(String[] args) {
-        
+        SolarSystem solarSystem = new SolarSystem(300, 300);
     }
 }
