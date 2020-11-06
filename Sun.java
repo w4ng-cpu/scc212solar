@@ -2,7 +2,7 @@
 * This class is the constructor for Suns
 * @author Allan Wang
 */
-public class Sun implements SolarObject
+public class Sun
 {
     private int diameter;
     private String col;
